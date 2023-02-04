@@ -1,6 +1,6 @@
 import React from 'react'
 import './About.css'
-import perfectMask from "../../img/perfectMask.jpeg"
+import perfect from "../../img/patfulle.jpeg"
 import Award from "../../img/award.png"
 
 const About = () => {
@@ -10,7 +10,7 @@ const About = () => {
         <div className="a-card bg"></div>
         <div className="a-card">
           <img
-            src={perfectMask}
+            src={perfect}
             alt=""
             className="a-img"
           />

@@ -1,6 +1,6 @@
 import React from 'react'
 import './Intro.css'
-import fuller from "../../img/fulleremovebg.png"
+import fuller from "../../img/patfullbg.png"
 
 const Intro = () => {
   return (
